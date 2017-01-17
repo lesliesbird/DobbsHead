@@ -1,0 +1,75 @@
+{
+  "uuid": "ca26c9ff-bdef-4ce4-a285-e25e87ef46a6",
+  "shortName": "DobbsHead",
+  "longName": "DobbsHead",
+  "companyName": "lesliesbird",
+  "versionCode": 3,
+  "versionLabel": "3.4",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BOB",
+        "file": "images/background.png"
+      },
+      {
+        "type": "pbi",
+        "name": "IMAGE_SUB0",
+        "file": "images/sub_0.png"
+      },
+      {
+        "type": "pbi",
+        "name": "IMAGE_SUB1",
+        "file": "images/sub_1.png"
+      },
+      {
+        "type": "pbi",
+        "name": "IMAGE_SUB2",
+        "file": "images/sub_2.png"
+      },
+      {
+        "type": "pbi",
+        "name": "IMAGE_SUB3",
+        "file": "images/sub_3.png"
+      },
+      {
+        "type": "pbi",
+        "name": "IMAGE_SUB4",
+        "file": "images/sub_4.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SUB5",
+        "file": "images/sub_5.png"
+      },
+      {
+        "type": "pbi",
+        "name": "IMAGE_SUB6",
+        "file": "images/sub_6.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SUB7",
+        "file": "images/sub_7.png"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+	"chalk",
+	"diorite",
+	"emery"
+  ],
+  "sdkVersion": "3"
+}
